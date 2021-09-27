@@ -150,87 +150,87 @@ let resumeData = {
       {
         "name":"Robotic Arm",
         "description":"Arduino Based Robotic Arm was developed using servos as joints for arm.",
-        "imgurl":"images/portfolio/robotic-arm.jpeg"
+        "imgurl":"https://www.areejasad.com/images/portfolio/robotic-arm.jpeg"
       },
       {
         "name":"Color Sorter",
         "description":"An Arduino Based Color Sorter was made and displayed in exhibition. The Color Sorter, detected different colors & sorted those colored marbels into th",
-        "imgurl":"images/portfolio/Color-sorter.jpeg"
+        "imgurl":"https://www.areejasad.com/images/portfolio/Color-sorter.jpeg"
       },
       {
         "name":"Raspberry Pi Minibot & Home Automation",
         "description":"The Raspberry Pi Minibot is chatbot as well as home automation device that delivers output on the basis of voice command.It can be used for security purposes as it detects a persons movement using motion sensor and alerts by the help of buzzer if there is any intruder in the house.",  
-        "imgurl":"images/portfolio/raspi.jpeg"
+        "imgurl":"https://www.areejasad.com/images/portfolio/raspi.jpeg"
       },
       {
         "name":"Line Following Robot",
         "description":"LFR is the electronic robot thats follows white path on a black surface and stops when it detects obstacle on its path",
-        "imgurl":"images/portfolio/lfr.jpg"
+        "imgurl":"https://www.areejasad.com/images/portfolio/lfr.jpg"
       },
       {
         "name":"RC Car with Bluetooth",
         "description":"RC Car is Remote Control Car that is made using Arduino and Bluetooth Module. An Android App was developed that controlled the car.",  
-        "imgurl":"images/portfolio/RC Car.jpg"
+        "imgurl":"https://www.areejasad.com/images/portfolio/RC Car.jpg"
       },
       {
         "name":"AIML Chatbot",
         "description":"The aiml is a fast technique chat bot made using python programing .It used to generate automatic responses.",  
-        "imgurl":"images/portfolio/chatbot-3.png"
+        "imgurl":"https://www.areejasad.com/images/portfolio/chatbot-3.png"
       },
       {
         "name":"Hand written Digit Recognition",
         "description":"The Machine Learning based project that detects hand written digits and converts it into digital written text.",  
-        "imgurl":"images/portfolio/hwi.png"
+        "imgurl":"https://www.areejasad.com/images/portfolio/hwi.png"
       },
       {
         "name":"Image to text",
         "description":"The image to text project basically a Machine Learning project where text will be extracted from images.",  
-        "imgurl":"images/portfolio/image to text.jpg"
+        "imgurl":"https://www.areejasad.com/images/portfolio/image to text.jpg"
       },
       {
         "name":"Persistence of Vision Display",
         "description":"POV Display is a kind of optical illusion using which we can dsiplay any text or image.",  
-        "imgurl":"images/portfolio/pov.jfif"
+        "imgurl":"https://www.areejasad.com/images/portfolio/pov.jfif"
       },
       {
         "name":"Reverse Engineering of Mehhran Fan PCB Circuit",
         "description":"A complete schematic was developed of fan circuit on Multisim by Reverse Engineering method.",  
-        "imgurl":"images/portfolio/re.jpg"
+        "imgurl":"https://www.areejasad.com/images/portfolio/re.jpg"
       },
       {
         "name":"DC motor speed control using temperature sensor",
         "description":"A circuit was developed that controlled the spped of a DC motor with respect to the temperature.",  
-        "imgurl":"images/portfolio/DC motor.jpeg"
+        "imgurl":"https://www.areejasad.com/images/portfolio/DC motor.jpeg"
       },
       {
         "name":"Audio Amplifer with noise reduction using MATLAB",
         "description":"A circuit was developed that controlled the spped of a DC motor with respect to the temperature.",  
-        "imgurl":"images/portfolio/matlab.png"
+        "imgurl":"https://www.areejasad.com/images/portfolio/matlab.png"
       },
       {
         "name":"Digital Clock on FPGA",
         "description":"A digital clock was implemented using FPGA and 7-Segment display.",  
-        "imgurl":"images/portfolio/digital clock.jpg"
+        "imgurl":"https://www.areejasad.com/images/portfolio/digital clock.jpg"
       },
       {
         "name":"Sentiment Analysis Feedback System & Attendance System",
         "description":"A Jetson Nano based device that detects face and sentiment of a person through facial expressions and generated feedback. It also works as Smart Attendance System.",  
-        "imgurl":"images/portfolio/SA.jpg"
+        "imgurl":"https://www.areejasad.com/images/portfolio/SA.jpg"
       },
       {
         "name":"Evrimo Website",
         "description":"Developed Evrimo Website using Elementor Pro tools",  
-        "imgurl":"images/portfolio/evrimo.jpeg"
+        "imgurl":"https://www.areejasad.com/images/portfolio/evrimo.jpeg"
       },
       {
         "name":"JavaScript Project - To do list",
         "description":"A to do list website was deveoped using JavaScript",  
-        "imgurl":"images/portfolio/to do list.jpeg"
+        "imgurl":"https://www.areejasad.com/images/portfolio/to do list.jpeg"
       },
       {
         "name":"JavaScript Project - Caculator",
         "description":"A calculator website was deveoped using JavaScript",  
-        "imgurl":"images/portfolio/calculator.jpeg"
+        "imgurl":"https://www.areejasad.com/images/portfolio/calculator.jpeg"
       },
     ],
     "testimonials":[
