@@ -24,7 +24,7 @@ let resumeData = {
       ],
     "aboutme":"I am a graduate Electronic Engineeer from NED University of Engineering & Technology. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"Pakistan",
-    "website":"https://areejasad.com",
+    "website":"https://www.areejasad.com",
     "education":[
       {
         "UniversityName":"NED University Of Engineering & Technology",
@@ -34,8 +34,8 @@ let resumeData = {
         "Achievements":""
       },
       {
-        "UniversityName":"Cordoba School",
-        "specialization":"A'levels",
+        "UniversityName":"Higher Education",
+        "specialization":"Private A'levels",
         "MonthOfPassing":"May",
         "YearOfPassing":"2017",
         "Achievements":""
