@@ -110,31 +110,40 @@ let resumeData = {
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"HTML5",
+        "skillPercentage":"full"
       },
       {
-        "skillname":"CSS"
+        "skillname":"CSS",
+        "skillPercentage":"full"
       },
       {
-        "skillname":"JavaScript"
+        "skillname":"JavaScript",
+        "skillPercentage":"full"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Reactjs",
+        "skillPercentage":"full"
       },
       {
-        "skillname":"CMS"
+        "skillname":"CMS",
+        "skillPercentage":"full"
       },
       {
-        "skillname":"PCB Designing"
+        "skillname":"PCB Designing",
+        "skillPercentage":"full"
       },
       {
-        "skillname":"C Language"
+        "skillname":"C Language",
+        "skillPercentage":"full"
       },
       {
-        "skillname":"C++"
+        "skillname":"C++",
+        "skillPercentage":"full"
       },
       {
-        "skillname":"Python Programming"
+        "skillname":"Python Programming",
+        "skillPercentage":"full"
       },
     ],
     "portfolio":[
