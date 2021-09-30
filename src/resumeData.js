@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Frontend Developer and Electronic Engineer",
     "linkedinId":" areejasad16@gmail.com",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, work as part-time freelancer or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -17,12 +17,12 @@ let resumeData = {
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
+          "name":"twitter",
           "url":"https://twitter.com/AreejAsad5",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am a graduate Electronic Engineeer from NED University of Engineering & Technology. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am a graduate Electronic Engineeer from NED University of Engineering & Technology. I am a self taught Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"Pakistan",
     "website":"https://www.areejasad.com",
     "education":[
@@ -51,6 +51,13 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"Instrumentation Center, NEDUET, Karachi",
+        "specialization":"Internee",
+        "MonthOfLeaving":"Sep",
+        "YearOfLeaving":"2018",
+        "Achievements":"Worked as an internee, developed many projects"
+      },
+      {
         "CompanyName":"Laar Science Festival, Thatta",
         "specialization":"Volunteer",
         "MonthOfLeaving":"Dec",
@@ -63,13 +70,6 @@ let resumeData = {
         "MonthOfLeaving":"Mar",
         "YearOfLeaving":"2019",
         "Achievements":"Worked as an active member of Team Robotics in SENTEC, The Society For Promotion of Science, Engineering & Technology and conducted various robotic competitions."
-      },
-      {
-        "CompanyName":"Instrumentation Center, NEDUET, Karachi",
-        "specialization":"Internee",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2019",
-        "Achievements":"Worked as an internee, developed many projects"
       },
       {
         "CompanyName":"Neurocomputation (NCAI) Lab, NEDUET, Karachi",
